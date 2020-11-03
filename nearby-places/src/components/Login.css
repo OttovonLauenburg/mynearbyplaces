@@ -1,0 +1,15 @@
+.loginButton{
+    position: absolute;
+	top: 10px;
+	right: 10px;
+}
+
+form{
+    position: absolute;
+	left:200px;
+}
+
+img{
+	position:absolute;
+	right: 300px;
+}
